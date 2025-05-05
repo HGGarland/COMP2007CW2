@@ -1,0 +1,19 @@
+These pillars should be placed like any other 3D model.
+
+Most work well when used with third party tiling materials.  The 
+round columns (under pieces) have been made UVs place so that a tiling 
+material will wrap around exactly once; thick three high (3h) pieces 
+will do so without distortion as the diameter and radius are the 
+same, and the alternate four high pillars (4h alt) will do the 
+same by wrapping the top quarter of the column to the lower third 
+of the textures.  Thinner pieces will slighly distor textures, while 
+pillar 03 will have more distortion.  Caps, one-mesh who pillars, 
+and pillar 03 work best with low detail, high-noise materials like 
+stone.
+
+Most pillars are very low poly, many under 100 triangles, most middle 
+pieces are under 300 and all middle pieces and under 1k.  The caps are 
+similarly low poly, as are the single mesh capped pillars.
+
+These are mostly for those looking to add some non-square / round 
+pillars to a low poly or stylized environment.
